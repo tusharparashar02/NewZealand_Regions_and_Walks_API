@@ -39,7 +39,7 @@ Follow the steps below to get your local environment up and running:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/new-zealand-regions-walks-api.git
+    git clone https://github.com/tusharparashar02/new-zealand-regions-walks-api.git
     cd new-zealand-regions-walks-api
     ```
 
